@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fontfa {
+    font-family: 'poppins';
+}
+.fontfa1 {
+    font-family: 'caveat';
+}
+.fontfa2 {
+    font-family: 'Patua One';
+}
